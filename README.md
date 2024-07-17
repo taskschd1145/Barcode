@@ -1,4 +1,4 @@
-# Batch Barcode Generator
+# Barcode
 [中文](https://github.com/taskschd1145/Barcode/blob/main/README_cn.md)
 
 ## Overview
