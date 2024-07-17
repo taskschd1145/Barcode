@@ -1,5 +1,5 @@
 # Batch Barcode Generator
-[中文](https://github.com/taskschd1145/Barcode/README_cn.md
+[中文](https://github.com/taskschd1145/Barcode/README_cn.md)
 
 ## Overview
 
