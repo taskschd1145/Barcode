@@ -1,6 +1,10 @@
 # Barcode
 [中文](https://github.com/taskschd1145/Barcode/blob/main/README_cn.md)
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## Overview
 
 This project is a tool written in Python designed to help users quickly generate barcode images in bulk. It utilizes the `python-barcode` library to generate barcodes and the `Pillow` library for image output processing.

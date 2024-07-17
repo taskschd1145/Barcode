@@ -1,5 +1,9 @@
 # Barcode
 
+## 许可证
+
+本项目基于 MIT 许可证发布。详情请参阅 [LICENSE](LICENSE) 文件。
+
 ## 概述
 
 本项目是一个使用Python编写的工具，旨在帮助用户快速批量生成条形码图片。它利用了 `python-barcode` 库来生成条形码，并使用 `Pillow` 库处理图片输出。
