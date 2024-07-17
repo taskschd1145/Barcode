@@ -46,5 +46,6 @@ To avoid duplicates, it is recommended to delete all images in the `images` fold
 ## Notes
 
 By default, the barcode images are sized at 600x400 pixels. You can adjust this setting in the `main.py` file.
+### Note:If there is any infringement, please contact me by [email](mailto:taskschd@hotmail.com), and it will be dealt with in time.
 ### Note:This project uses the Nerd Font for displaying text below the barcodes.
 
