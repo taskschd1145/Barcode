@@ -42,3 +42,5 @@ for idx, line in enumerate(lines):
 
     # Close the image in memory
     buffer.close()
+
+print ("Done.")
