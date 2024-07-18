@@ -50,6 +50,6 @@ python main.py
 ## 注意事项
 
 默认情况下，条形码图片的尺寸为 600x400 像素。你可以在 main.py 文件中调整此设置。
-### 注意：如有侵权行为，请通过[电子邮件](mailto:taskschd@hotmail.com)与我联系，我们会及时处理
-### 注意：本项目使用了 Nerd Font 字体，用于显示条形码下的文字。
+### 注意：如有侵权行为，请通过[电子邮件](mailto:taskschd@hotmail.com)与我联系或者提 issue，我们会及时处理
+
 
