@@ -40,7 +40,7 @@ python main.py
 
 This will generate barcode images based on the data in `main.txt`.
 
-After the prompt "Done." is displayed, the generation is complete
+When the terminal prompts "Done.", the generation is complete
 
 ### Step 4: View the Generated Images
 
