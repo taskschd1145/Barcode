@@ -13,7 +13,7 @@ image_width = 600
 image_height = 400
 
 # Open and read the contents of the main.txt file
-with open('main.txt', 'r', encoding='utf-8') as file:
+with open('main.barcode', 'r', encoding='utf-8') as file:
     lines = file.readlines()
 
 # Process each line and generate a barcode
