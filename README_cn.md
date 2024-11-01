@@ -23,7 +23,7 @@ pip install python-barcode
 
 ### 1：获取源代码
 
-从GitHub仓库的Releases部分下载源代码。
+从GitHub仓库的Releases部分或直接Git Clone下载源代码。
 
 ### 2：编辑条形码列表
 

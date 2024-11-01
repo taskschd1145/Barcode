@@ -24,11 +24,11 @@ pip install Pillow
 
 ### Step 1: Get the Source Code
 
-Download the source code from the Releases section of the GitHub repository.
+Download the source code of this repository
 
 ### Step 2: Edit the Barcode List
 
-Open the `main.txt` file and replace its contents with the barcode data you need to generate, with each data entry on a new line.
+Open the `main.barcode` file and replace its contents with the barcode data you need to generate, with each data entry on a new line.
 
 ### Step 3: Run the Main Script
 
@@ -38,7 +38,7 @@ In the project directory, run the `main.py` script via the terminal:
 python main.py
 ```
 
-This will generate barcode images based on the data in `main.txt`.
+This will generate barcode images based on the data in `main.barcode`.
 
 When the terminal prompts "Done.", the generation is complete
 
